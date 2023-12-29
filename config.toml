@@ -1,0 +1,5 @@
+[log]
+conf_file = "log.conf"
+
+[fortune_teller]
+window = 40 # ms
